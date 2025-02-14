@@ -5,5 +5,7 @@ int main(void){
     cout << "Hello world!" << "\n";
     cout << "change of scene" << "\n";
     cout << "even more changes!!" << "\n";
+    cout << "EMERGENCY!!" << "\n";
+    cout << "another change" << "\n";
     return 0;
 }
